@@ -1,0 +1,878 @@
+[
+  {
+    "category": "存内计算",
+    "venue": "A-SSCC",
+    "year": "2025",
+    "pdf_name": "11349414_CENTAUR_A_38.5-TFLOPSW_600MHz_Floating-Point_Digital_Compute-In-Memory_Engine_with_40nm_Fusion_RRAM-eDRAM_Macr.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "A-SSCC",
+    "year": "2025",
+    "pdf_name": "11349585_MIDAS_An_Energy-Efficient_Microscaling_Digital_Compute-In-Memory-Based_Accelerator_with_Spatio-Temporal_Cyclic.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "A-SSCC",
+    "year": "2025",
+    "pdf_name": "11349592_LoRA-CIM_A_Fully-Digital_Hybrid_Flash-SRAM_CIM_Accelerator_with_LoRA_Fine-Tuned_LLM_in_Edge_Devices.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "A-SSCC",
+    "year": "2025",
+    "pdf_name": "11349645_A_28nm_77.2_TFLOPSW_Digital_Floating-Point_Compute-InMemory_Macro_Employing_Dynamic_Find-Max_and_ReducedCycle_.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "APCCAS",
+    "year": "2025",
+    "pdf_name": "11377073_A_NOR8T_SRAM_Digital_Compute-in-Memory_Macro_for_Sparse_and_Scalable_Edge-AI_Processing.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "CICC",
+    "year": "2025",
+    "pdf_name": "10982876_A_28nm_Value-Wise_Hybrid-Domain_Compute-in-Memory_Macro_with_Heterogeneous_Memory_Fabric_and_Asynchronous_Spar.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "CICC",
+    "year": "2025",
+    "pdf_name": "10982878_A_28nm_20.9-137.2_TOPSW_Output-Stationary_SRAM_Compute-in-Memory_Macro_Featuring_Dynamic_Look-ahead_Zero_Weigh.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "CICC",
+    "year": "2025",
+    "pdf_name": "10983358_Pro-Cache-CIM_A_28nm_69.4TOPSW_Product-Cache-based_Digital-Compute-in-Memory_Macro_Leveraging_Data_Locality_Pa.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "CICC",
+    "year": "2026",
+    "pdf_name": "11509467_D2CIM_A_28nm_53.3_TFLOPSW_Decoding_Digital_CIM_Macro_for_Efficient_FlashMLA-based_LLM_Inference.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "CICC",
+    "year": "2026",
+    "pdf_name": "11509479_A_22nm_15.2μJInference_Speech_Enhancement_Accelerator_with_Contextual-Aware_KV-Cache_Management_and_Reconfigur.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "CICC",
+    "year": "2026",
+    "pdf_name": "11509500_TOKCIM_A_65nm_All-Digital_Compute-in-Memory_Transformer_Accelerator_with_Advanced_Weight_Sparsity_Handling_and.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "CICC",
+    "year": "2026",
+    "pdf_name": "11509512_A_24.46TOPSW_and_3.04TOPSmm2_BF16×1-bit_CIM-based_BERT_Accelerator_in_28nm_CMOS.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "CICC",
+    "year": "2026",
+    "pdf_name": "11509631_68.22_TOPSW_Full_Boolean_Logic_Supportable_eDRAM-Based_Digital_CIM_with_Energy-Efficient_Input-Aware_Toggle-Ra.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "DAC",
+    "year": "2025",
+    "pdf_name": "11132463_A_Full-system,_Programmable,_and_Extensible_In-Memory_Computing_Simulation_Framework_for_Deep_Learning.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "DAC",
+    "year": "2025",
+    "pdf_name": "11132578_OutlierCIM_Outlier-Aware_Digital_CIM-Based_LLM_Accelerator_with_Hybrid-Strategy_Quantization_and_Unified_FP-IN.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "DAC",
+    "year": "2025",
+    "pdf_name": "11133270_CIMFlow_An_Integrated_Framework_for_Systematic_Design_and_Evaluation_of_Digital_CIM_Architectures.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "EDTM",
+    "year": "2025",
+    "pdf_name": "11041150_Novel_Ferroelectric_Tunnel_Fet-Based_Computing-In-Memory_with_In-Situ_XOR_Cipher-Encrypted_and-Type_Multiply-A.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ESSERC",
+    "year": "2025",
+    "pdf_name": "11214017_PipeDCIM_28nm_$115.11mathrm{TOPSmm}^{2}times_mathrm{TOPSW}@1.24mathrm{GHz}$_Pipeline_Digital_CIM_Macro_with_an.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ESSERC",
+    "year": "2025",
+    "pdf_name": "11214050_D3TA_38.9TOPSW_Transformer_Accelerator_with_Dual-Port_3T-eDRAM_Digital_Compute-in-Memory_Using_HyperAttention_.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ESSERC",
+    "year": "2025",
+    "pdf_name": "11214086_PADCIM_A_1966.9-TOPSW_2.09%-RMSE_Probabilistic_Approximate_Dynamic-Logic_Based_Digital_Computing-in-Memory_Mac.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ESSERC",
+    "year": "2025",
+    "pdf_name": "11214115_A_65nm_5_TOPSW_Digital_CIM_Accelerator_with_Reconfigurable_Precision_and_Temporal_Pipelining_for_Spiking_Neura.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ICCAD",
+    "year": "2025",
+    "pdf_name": "11240835_DANCE_Dual-Side_Agile_NM_Sparse_Compressed_Digital_CiM_Accelerator_for_Efficient_Compound_AI.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ICCAD",
+    "year": "2025",
+    "pdf_name": "11240874_CIMTester_An_Agile_Golden-Result-Free_BIST_Compiler_for_Robust_Compute-In-Memory.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ICCAD",
+    "year": "2025",
+    "pdf_name": "11240881_JSA-CIM_A_Joint-Sparse_AdderNet_Compute-In-Memory_Accelerator_for_Energy-Efficient_Edge_AI_Applications.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ICCAD",
+    "year": "2025",
+    "pdf_name": "11240916_Adder-DCIM_A_Parallel_Bit-Flexible_Digital_CIM_Accelerator_Joint_Model_Compression_Framework_for_AdderNet_Infe.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ICCAD",
+    "year": "2025",
+    "pdf_name": "11240963_PAR-CIM_A_PreciseApproximate_Reconfigurable_Digital_CIM_Macro_with_0.35-4b_Fractional_Mixed-Bitwidth_Quantizat.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ICICM",
+    "year": "2025",
+    "pdf_name": "11315955_A_Hybrid_Computing-in-Memory_Architecture_for_Energy-Efficient_Edge_AI_Inference.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ICICM",
+    "year": "2025",
+    "pdf_name": "11315968_A_10T1C_SRAM-Based_Computing-in-Memory_Unit_Supporting_Logic_and_MAC_Computing_for_Energy-_Efficient_Edge_AI_C.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ICICM",
+    "year": "2025",
+    "pdf_name": "11316050_Hafnium-Based_Ferroelectric_Diode_with_Interlayer_Enhancement_for_In-Memory_Logic_Application.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "IEDM",
+    "year": "2025",
+    "pdf_name": "11353590_First_Demonstration_of_In-MVM_XOR-Decryption_based_on_40nm_RRAM_Chip_for_Secure_Point_Cloud_Processing.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "IEDM",
+    "year": "2025",
+    "pdf_name": "11353811_Monolithic_3D_Integration_of_Dual-Gated_ALD_Oxide-Channel_Non-Volatile_Capacitive_Memory_on_40nm_Si_CMOS_for_D.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "IEDM",
+    "year": "2025",
+    "pdf_name": "11353834_First_Experimental_Demonstration_of_Disturb-Free_3D_Vertical_1T-nC-1T_Ferroelectric-based_KV_Cache_with_Co-Opt.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11043177_A_62.8_TOPSW_FP-INT_Digital_Computing-in_Memory_Processor_with_Bit-Reordered_Adder_Tree_and_Low_Active_Hierarc.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11043374_A_Refresh-Reduction_Digital_eDRAM_CIM_Macro_using_Asymmetric_Error_Tolerance_Scheme.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11043484_StreamDCIM_A_Tile-based_Streaming_Digital_CIM_Accelerator_with_Mixed-stationary_Cross-forwarding_Dataflow_for_.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11043507_An_Event-Based_Digital_Compute-In-Memory_Accelerator_with_Flexible_Operand_Resolution_and_Layer-Wise_WeightOut.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11043567_An_SRAM-Based_Digital_Compute-in-Memory_Macro_with_Dual-Bit_Input_Data_Sparsification_and_Restructuring_for_En.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11043589_CAMO_A_High-Performance_CIM-based_Lightweight_CNN_Accelerator_for_Mobile_Devices.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11043683_In-Memory_Logic_Synthesis_Methods_based_on_Read_Decoupled_8T_and_Transpose_11T_SRAMs.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11043703_A_65.1_TOPSW_Digital_CIM_Processor_for_Ultra-Low-Bit_Transformers_with_Multiplexer-based_Adder_and_Scaling_Fac.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11043884_A_High-Performance_In-Memory_Multi-Bit_Adder_Based_on_TST-MRAM.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11043929_A_Reconfigurable_Digital_Compute-In-Memory_Heterogeneous_Macro_for_Differential_Frame_Convolution_and_Spiking_.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11044064_Reconfigurable_Precision_INT4-8FP8_Digital_Compute-in-Memory_Macro_for_AI_Acceleration.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11044117_TSCIM_A_28nm_Transposed_Stochastic_CIM_Macro_for_On-Chip_Training_and_Inference.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11044146_A_Digital_Compute-in-Memory_Macro_Featuring_Two’s_Complement_Multiplication_for_LSTM-based_Biomedical_Signal_C.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11044245_A_Novel_Memristor-Based_Majority_Logic_and_Efficient_Approximate_Full_Adder_for_Image_Processing.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2025",
+    "pdf_name": "11044290_A_Hybrid-Domain_Floating-Point_Compute-In-Memory_Architecture_for_Efficient_Acceleration_of_High-Precision_Dee.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2026",
+    "pdf_name": "11562180_RCW-CIM_A_Digital_CIM-based_LLM_Accelerator_with_Read-ComputeWrite.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2026",
+    "pdf_name": "11562200_A_Compute-in-Memory_Based_on_Approximate_Multiplication_with_a_Calibration_Adder.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2026",
+    "pdf_name": "11562277_A_442.42_TOPSW_RRAM-based_Digital_Computing-in-Memory_Accelerator_for_BF16×1-bit_Vision_Transformer.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2026",
+    "pdf_name": "11562375_CIM-Pruner_A_Dual-Mode_Compute-In-Memory_Macro_for_Efficient_VLMs_with_Intra-Chunk_Token_Pruning_and_Merging.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2026",
+    "pdf_name": "11562516_A_Fully-Parallel_Digital_MRAM_Computing-in-Memory_Macro_Featuring_a_High-Efficient_Dynamic_Adder_Tree_and_Bit-.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2026",
+    "pdf_name": "11562521_An_Approximate_Digital_Compute-In-Memory_Macro_with_Reconfigurable_Computational_Precision_for_Neural_Network_.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2026",
+    "pdf_name": "11562639_A_FeFET-based_Approximate_DCIM_Integrating_Multiplication_and_OR_Addition_In-Bitcell.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2026",
+    "pdf_name": "11562714_Horizontal-Parallel_ADC-less_Sparsity-Clock-Aware_RRAM_CIM_Macro_for_edge_AI_devices.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2026",
+    "pdf_name": "11562799_Energy-Efficient_All-Digital_Computation-in-Memory_Macro_Design_with_CFeFET-based_Booth_Decoder.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2026",
+    "pdf_name": "11562810_Design_Technology_Co-Optimization_for_Digital_Compute-in-memory_with_Area-efficient_CFET_10T3P_SRAM.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2026",
+    "pdf_name": "11562848_A_BEOL_Ferroelectric_FET-based_Computing_Unit_for_Digital_Computing-in-Memory.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISCAS",
+    "year": "2026",
+    "pdf_name": "11562957_Mixed-Mode_ReRAM_Architecture_with_Digital_Weights_and_Inputs_for_High-Precision_In-Memory_Computing.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISSCC",
+    "year": "2025",
+    "pdf_name": "10904646_14.6_A_28nm_64kb_Bit-Rotated_Hybrid-CIM_Macro_with_an_Embedded_Sign-Bit-Processing_Array_and_a_Multi-Bit-Fusio.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISSCC",
+    "year": "2025",
+    "pdf_name": "10904659_14.5_A_28nm_192.3TFLOPSW_AccurateApproximate_Dual-Mode-Transpose_Digital_6T-SRAM_CIM_Macro_for_Floating-Point_.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISSCC",
+    "year": "2025",
+    "pdf_name": "10904738_14.3_A_28nm_17.83-to-62.84TFLOPSW_Broadcast-Alignment_Floating-Point_CIM_Macro_with_Non-Two's-Complement_MAC_f.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISSCC",
+    "year": "2026",
+    "pdf_name": "11409207_30.9_A_147TOPSW,_250TOPSmm2,_Fully_Synthesizable,_Digital_Compute-in-Memory_Accelerator_Supporting_INT8×INT8_w.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISSCC",
+    "year": "2026",
+    "pdf_name": "11409250_A_16nm,_1Mb,_1-to-8b-Configurable_444.21TOPSW_Fully_Digital_SRAM_Compute-in-Memory_Macro_for_Hybrid_SNN-CNN_Ed.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "ISSCC",
+    "year": "2026",
+    "pdf_name": "11409281_30.4_A_28nm_106.85TOPSW_and_77.68TFLOPSW_CIM_Macro_with_Stage-Wise-Enabled_Lossless_Compressors_Based_on_Sign-.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JEDS",
+    "year": "2025",
+    "pdf_name": "10752562_Compact_XORXNOR-Based_Adders_and_BNNs_Utilizing_Drain-Erase_Scheme_in_Ferroelectric_FETs.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JETCAS",
+    "year": "2026",
+    "pdf_name": "11303026_TDC-CiM_Time-to-Digital_Converter-Based_Resonant_Compute-in-Memory_for_INT8_CNNs_With_Layer-Optimized_SRAM_Map.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JETCAS",
+    "year": "2026",
+    "pdf_name": "11308108_A_CMOS_Compatible_Energy_Efficient_6T_NV-SRAM-Based_Accelerator_Employing_Binary_Neural_Networks_in_22_nm_FDSO.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JETCAS",
+    "year": "2026",
+    "pdf_name": "11418660_High-Speed_MAGIC-Based_Exact_and_Approximate_Adders_for_In-Memory_Computing.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JETCAS",
+    "year": "2026",
+    "pdf_name": "11456958_IGA-SRAM_A_Compact_SRAM-Based_IMC_Engine_for_BinaryTernary_Deep_Neural_Networks_With_ADC-Less_and_Error-Aware_.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JETCAS",
+    "year": "2026",
+    "pdf_name": "11457955_JADE_Joint_Architecture-Dataflow_Exploration_for_LLM_Inference_on_Heterogeneous_In-_and_Near-Memory_Computing_.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JETCAS",
+    "year": "2026",
+    "pdf_name": "11500449_Voltage-Summation-Based_Compute-in-Memory_SRAM_Macro_With_Input-Bit_and_Synaptic-Bit_Slicing.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2025",
+    "pdf_name": "10555118_TensorCIM_Digital_Computing-in-Memory_Tensor_Processor_With_Multichip-Module-Based_Architecture_for_Beyond-NN_.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2025",
+    "pdf_name": "10562243_A_28-nm_19.9-to-258.5-TOPSW_8b_Digital_Computing-in-Memory_Processor_With_Two-Cycle_Macro_Featuring_Winograd-D.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2025",
+    "pdf_name": "10568908_A_90.7-nW_Vibration-Based_Condition_Monitoring_Chip_Featuring_a_Digital_Compute-in-Memory-_Based_DNN_Accelerat.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2025",
+    "pdf_name": "10620433_A_28-nm_28.8-TOPSW_Attention-Based_NN_Processor_With_Correlative_CIM_Ring_Architecture_and_Dataflow-Reshaped_D.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2025",
+    "pdf_name": "10622078_A_Multiply-Less_Approximate_SRAM_Compute-In-Memory_Macro_for_Neural-Network_Inference.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2025",
+    "pdf_name": "10829928_A_Computing-in-Memory_Engine_Supporting_One-Shot_Floating-Point_NN_Inference_and_On-Device_Fine-Tuning_for_Edg.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2025",
+    "pdf_name": "10873364_An_Energy-Efficient_POSIT_Compute-in-Memory_Macro_for_High-Accuracy_AI_Applications.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2025",
+    "pdf_name": "10899870_An_8-bit_20.7_TOPSW_Multilevel_Cell_ReRAM_Macro_With_ADC-Assisted_Bit-Serial_Processing.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2025",
+    "pdf_name": "10949867_A_65-nm_Digital_Stochastic_Compute-in-Memory_CNN_Processor_With_8-bit_Precision.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2026",
+    "pdf_name": "11007640_ETCIM_Error-Tolerant_Digital_CIM_Processor_With_Redundancy-Free_Hard_Error_Repair_and_Run-Time_Soft_Error_Corr.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2026",
+    "pdf_name": "11016687_A_22-nm_109.3-to-249.5-TFLOPSW_Outlier-Aware_Floating-Point_SRAM_Compute-in-Memory_Macro_for_Large_Language_Mo.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2026",
+    "pdf_name": "11113258_A_28-nm_88.3-TFLOPSW_POSIT-Approximate-Calculation-Based_Digital_Computing-in-Memory_Macro_Incorporating_Final.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2026",
+    "pdf_name": "11128902_An_Area-Efficient_Lookup-Table_-Based_eDRAM_Digital_CIM_Macro_for_Neural_Network_Inference.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2026",
+    "pdf_name": "11316899_A_3_nm_FinFET_125_TOPSW-29_TFLOPSW,_90_TOPSmm2-17_TFLOPSmm2_SRAM-Based_INT8,_and_FP16_Digital-CIM_Compiler_Wit.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2026",
+    "pdf_name": "11475654_A_28-nm_Digital_Transpose_SRAM_Compute-in-Memory_Macro_With_AccurateApproximate_Dual_Mode_for_Floating-Point_E.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2026",
+    "pdf_name": "11534078_PROTEUS_A_40_nm_Programmable_General-Purpose_Digital_Compute-In-Memory_Accelerator_With_eNVM_and_Hierarchical_.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2026",
+    "pdf_name": "11534256_MIDAS_An_Energy-Efficient_Microscaling_Quantization-Based_Digital_CIM_Accelerator_With_Spatio-Temporal_Cyclic_.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2026",
+    "pdf_name": "11543489_STAR-SRAM_16-bit_Floating-Point_SRAM-Based_Digital_Computing-in-Memory_Macro_in_a_28_nm.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2026",
+    "pdf_name": "11641834_A_28-nm_Sign-Bit-Embedded_Bit-Parallel_SRAM_Compute-in-Memory_Macro_With_Stage-Wise-Enabled_Transition-Countin.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "JSSC",
+    "year": "2026",
+    "pdf_name": "11655557_MTDiff_A_Multi-Task_Diffusion_Accelerator_With_Bandwidth-Aware_Memory_Partition_and_Efficient_Digital_Compute-.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "T-MAG",
+    "year": "2025",
+    "pdf_name": "10969079_USCIM_Computing-in-Memory_With_Unipolar_Switching_SOT-MRAM.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "T-MAG",
+    "year": "2026",
+    "pdf_name": "11197029_A_High-Reliable_and_High-Speed_All-Digital_STT-MRAM-Based_Computing-in-Memory_for_Binary_Neural_Networks.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "T-NANO",
+    "year": "2026",
+    "pdf_name": "11466452_RAPID_Re-Configurable_Adder_Tree_Based_Performance-Incentivized_AI_Digital_CIM_Macro.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAD",
+    "year": "2026",
+    "pdf_name": "11154029_DAMIL-DCIM+_Automated_Dataflow-Aware_Layout_Synthesis_for_Digital_CIM_With_Self-Assembled_Bitcell_Units_and_MI.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "10758245_GSLP-CIM_A_28-nm_Globally_Systolic_and_Locally_Parallel_CNNTransformer_Accelerator_With_Scalable_and_Reconfigu.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "10777838_Robust_Monolithic_3D_Carbon-Based_Computing-in-SRAM_With_Variation-Aware_Bit-Wise_Data-Mapping_for_High-Perfor.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "10806900_In-Memory_Implementation_of_an_Approximate_Adder_With_Reduced_Latency_and_Error.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "10852522_A_Design_Framework_of_Heterogeneous_Approximate_DCIM-Based_Accelerator_for_Energy-Efficient_NN_Processing.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "10879560_BeaCIM_A_Digital_Compute-in-Memory_DNN_Processor_With_Bi-Directional_Exponent_Alignment_for_FP8_Training.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "10916950_FlexDCIM_A_400_MHz_249.1_TOPSW_64_Kb_Flexible_Digital_Compute-in-Memory_SRAM_Macro_for_CNN_Acceleration.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "11000095_A_Self-Decryption_Pass_Transistor_Logic-Based_In-MRAM_Computing_Macro_Using_Hybrid_VGSOT-MTJGAA-CNTFET.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "11037450_KV-Cache_Oriented_Query-Aware_Sparse_Attention_Accelerator_With_Cross-Stage_Precision-Configurable_Digital_CIM.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "11045166_Calibration-Free_Edge-Computing_IMC_Macro_With_Direct_Current-to-Digital_Conversion.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "11050911_Area-Efficient_and_Low-Power_8T_Compute-SRAM_Bitcell_Design_for_Digital_Compute-In-Memory_Macros_in_22nm_CMOS.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "11062902_DCiROM_A_High-Density_Fully-Digital_Compute-in-Read-Only-Memory_Macro_for_Energy-Efficient_Task-Level_DNN_Infe.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "11087439_BooLUT-CIM_A_52.4_TOPSW_Radix-4_Booth-LUT_Digital_CIM_With_Negative-Magnitude-Bits_Inversion_Storage.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "11128898_Booth-Assisted_Mixed-Precision_Reconfigurable_Digital_Computing-in-Memory_Engine_With_Ternary-Input_1T2R_ReRAM.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2025",
+    "pdf_name": "11142346_A_Reconfigurable_Digital_Compute-in-Memory_Architecture_With_24_Compressed_Weight_Storage_for_Highly_Sparse_Fu.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2026",
+    "pdf_name": "11130436_Quartet_A_Digital_Compute-in-Memory_Versatile_AI_Accelerator_With_Heterogeneous_Tensor_Engines_and_Off-Chip-Le.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2026",
+    "pdf_name": "11178075_Ferroelectric_Digital_In-Memory_Computing_for_Scalable,_Reliable,_and_Efficient_Similarity_Computation.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2026",
+    "pdf_name": "11272449_BaM-CIM_A_High_Throughput_Booth_Algorithm-Based_In-MRAM_Computing_Macro_Using_Hybrid_VGSOT-MTJGAA-CNTFET.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2026",
+    "pdf_name": "11410001_D6CIM_60.4-TOPSW_All-Digital_6T-SRAM-Based_Compute-in-Memory_Macro_Supporting_1-to-8_b_Fixed-Point_Arithmetic_.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2026",
+    "pdf_name": "11428314_In-3-D_nand_Flash_Computing_for_Vector_Similarity_Search_Acceleration_on_Edge_Devices.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2026",
+    "pdf_name": "11535964_A_Full-Digital_Heterogeneous_Computing-in-Memory_With_Dual-Bit_Serialized_Weight_Stream_and_Ping-Pong_Computin.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2026",
+    "pdf_name": "11599769_SNAP-FPCIM_A_28-nm_Embedded-Serial-Alignment_and_Non-2’s-Complement-MAC_Floating-Point_Compute-in-Memory_Macro.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TCAS-I",
+    "year": "2026",
+    "pdf_name": "11653593_TEF-CIM_Heterogeneous_Tri-Flow_Training_CIM_Macro_With_Exponent-Exclusive_Addend-Compression_and_Adder-Free_Ar.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TED",
+    "year": "2026",
+    "pdf_name": "11393906_Implementation_of_Boolean_Logic_Operation_in_Embedded_Flash_Memory_for_In-Memory_Computing_Applications.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TED",
+    "year": "2026",
+    "pdf_name": "11475648_Dual-Gated_ALD_Oxide-Channel_Nonvolatile_Capacitive_Memory_Monolithically_Integrated_on_Foundry_40-nm_CMOS_for.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2025",
+    "pdf_name": "10689605_An_Efficient_and_Precision-Reconfigurable_Digital_CIM_Macro_for_DNN_Accelerators.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2025",
+    "pdf_name": "10701033_PIPECIM_Energy-Efficient_Pipelined_Computing-in-Memory_Computation_Engine_With_Sparsity-Aware_Technique.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2025",
+    "pdf_name": "10929074_An_RRAM_Digital_Computing-in-Memory_Macro_With_Dual-Mode_Multiplication_and_Maximum_Value_Rounding_Adder_Tree.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2025",
+    "pdf_name": "11005471_A_Dual-Multiplication-Mode_and_Reconfigurable_Digital_Compute-in-Memory_Macro_Using_Precharge-Controlled_4T1C_.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2025",
+    "pdf_name": "11008711_3-D_Digital_Compute-in-Memory_Benchmark_With_A5_CFET_Technology_An_Extension_to_Lookup-Table-Based_Design.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2025",
+    "pdf_name": "11017676_Full-Array_Boolean_Logic_CIM_Macro_With_Self-Recycling_10T-SRAM_Cell_for_AES_Systems.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2026",
+    "pdf_name": "11194710_A_Reconfigurable_Built-In_Self-Test_Scheme_for_the_Evaluation_Circuits_of_Digital_SRAM-IMC_Architectures.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2026",
+    "pdf_name": "11197043_DBP-CIM_Energy-Efficient_8T_SRAM-Based_Diagonal-Block_Parallel_Computing-in-Memory_With_Compact_Data_Layout_fo.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2026",
+    "pdf_name": "11215842_A_Digital_FP_CIM_Macro_With_Cascaded_Row-Elimination_for_Exponent_Comparison_and_In-Memory_Mantissa_Sparsity_D.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2026",
+    "pdf_name": "11343922_A_T8T-SRAM_Computing-in-Memory_Macro_for_Ternary_Deep_Neural_Networks_and_Boolean_Logic_Computations.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2026",
+    "pdf_name": "11373422_A_Floating-Point_SRAM_Computing-in-Memory_Macro_Using_Digital-Domain_Structure_for_CNNs.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2026",
+    "pdf_name": "11405434_A_28-nm_16-Kb_SRAM_Computing-in-Memory_Macro_With_Dual_Bitline_Computing_for_Boolean_Logic_Operation_and_BWN_M.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2026",
+    "pdf_name": "11503459_A_Booth-Based_Digital_Compute-in-Memory_Macro_With_Bitwise-Efficient_Multiphase_Accumulation.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2026",
+    "pdf_name": "11506321_Algorithm--Hardware_Co-Design_of_Digital_Compute-in-Memory_Architecture_Supporting_Flexible_and_Temporal_NM_Sp.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2026",
+    "pdf_name": "11520918_MoS2-Enhanced_Antisymmetric_2T2R_Logic_Unit_for_One-Step_WriteCompute_In-Memory_XNOR_in_BNN_Accelerators.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2026",
+    "pdf_name": "11543519_Balancing_FP8_Computation_Accuracy_and_Efficiency_on_Digital_CIM_via_Shift-Aware_On-the-Fly_Aligned-Mantissa_B.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2026",
+    "pdf_name": "11551984_HierCIM_A_16-Kb_SRAM-Based_Digital_CIM_Macro_With_Hierarchical_Adder-Tree_Accumulation_for_Edge_CNN_Inference.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "TVLSI",
+    "year": "2026",
+    "pdf_name": "11630690_A_Multifunctional_28-nm_4-Kb_9T1C_SRAM-CIM_Macro_With_Bidirectional_ReadWrite,_Full-Array_Self-Cycling_Boolean.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "VLSI",
+    "year": "2025",
+    "pdf_name": "11074897_A_3nm_125_TopsW-29_TFLOPSW,_90_TOPSmm2-17_TFLOPSmm2_SRAM-Based_INT8_and_FP16_Digital-CIM_Compiler_with_Multi-W.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "VLSI",
+    "year": "2025",
+    "pdf_name": "11074939_LLM-CIM_A_28nm_126.7TOPSW_Input-LUT-Based_Digital_CIM_Macro_with_Reconfigurable_Matrix_Multiplication_and_Nonl.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "VLSI",
+    "year": "2025",
+    "pdf_name": "11075031_Distributed_Power_Management_for_22nm_AI_Processor_with_Event-Driven_Exponential_Dual-Loop_LDOs_and_Online_Spa.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "VLSI",
+    "year": "2025",
+    "pdf_name": "11075101_CELLA_A_28nm_Compute-Memory_Co-Optimized_Real-Time_Digital_CIM-Based_Edge_LLM_Accelerator_with_1.78ms-Response.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "VLSI",
+    "year": "2026",
+    "pdf_name": "11577204_A_2nm_234.4_TOPSW_and_511.9_$text{TOPS}text{mm}^{2}$_Digital_Computing-in-Memory_Compiler_with_Multiple_MAC_Un.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "VLSI",
+    "year": "2026",
+    "pdf_name": "11577409_A_28nm_44.15TFLOPSW_and_1.57TFLOPSmm2_Joint-Alignment_Floating-Point_CIM_Macro_with_ISO26262_ASIL-D_Safety_Lev.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "VLSI",
+    "year": "2026",
+    "pdf_name": "11577503_A_40nm_24.85-to-80.59_TFLOPSW_FP8_Computing-in-Memory_Macro_with_Outlier-Aware_Hierarchical-Alignment_for_Edge.pdf"
+  },
+  {
+    "category": "存内计算",
+    "venue": "VLSI",
+    "year": "2026",
+    "pdf_name": "11577589_Flexible_Monolithic_3D_Integration_of_RRAM-based_CIM,_CNT_CMOS_Circuits_and_IGZO_FET-based_Sensor_and_Display_.pdf"
+  }
+]
